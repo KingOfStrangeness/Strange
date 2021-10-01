@@ -1,0 +1,116 @@
+body {
+background-color: rgb(54, 29, 37);
+
+}
+
+h1 {
+color: rgb(124, 11, 139);
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.grid-container{
+    display: grid; 
+    grid-template-columns: repeat(6, 1fr);
+    border-style: dashed;
+    grid-gap: 20px;
+}
+
+    
+
+
+
+
+
+.grid-element2{
+    display: grid; 
+    grid-column: span 1;
+    background-color: aliceblue;
+    grid-gap: 20px;
+}
+
+.grid-element3{
+    display: grid; 
+    grid-column: span 6;
+    background-color: aliceblue;
+    grid-gap: 20px;
+
+}
+
+.grid-element4{
+    display: grid; 
+    grid-column: span 1;
+    background-color: aliceblue;
+    grid-gap: 20px;
+
+}
+
+
+
+    .grid-element5{
+        display: grid; 
+        grid-column: span 1;
+        background-color: aliceblue;
+        grid-gap: 20px;
+
+
+    }
+
+
+    .grid-element6{
+        display: grid; 
+        grid-column: span 1;
+        background-color: aliceblue;
+        grid-gap: 20px;
+
+
+    }
+
+    .grid-element7{
+        display: grid; 
+        grid-column: span 1;
+        background-color: aliceblue;
+        grid-gap: 20px;
+
+
+    }
+
+    .grid-element8{
+        display: grid; 
+        grid-column: span 1;
+        background-color: aliceblue;
+        grid-gap: 20px;
+
+
+    }
+
+    .grid-element9{
+        display: grid; 
+        grid-column: span 1;
+        background-color: aliceblue;
+        grid-gap: 20px;
+
+   
+    }
+
+    .grid-element10{
+        display: grid; 
+        grid-column: span 1;
+        background-color: aliceblue;
+        grid-gap: 20px;
+
+
+
+    }
+
+    .grid-element11{
+        display: grid; 
+        grid-column: span 1;
+        background-color: aliceblue;
+        grid-gap: 20px;
+
+
+
+
+
+
+    }
