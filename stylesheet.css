@@ -1,6 +1,11 @@
 body {
-  background-color: #0b0821;
+ background-image: url('../website/backround.jpg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+
 }
+
 
 header {
   background-color: #89023E;
@@ -11,6 +16,7 @@ header {
   width: auto;
   
 }
+
 
 h1 {
   color: #89023E;
@@ -36,7 +42,6 @@ p {
 .grid-element2 {
   display: grid;
   grid-column: span 3;
-  background-color: #0b0821;
   grid-gap: 20px;
 }
 
@@ -49,7 +54,6 @@ p {
 .grid-element4 {
   display: grid;
   grid-column: span 1;
-  background-color: #0b0821;
   grid-gap: 20px;
 }
 
@@ -60,28 +64,24 @@ a:hover {
 .grid-element5 {
   display: grid;
   grid-column: span 1;
-  background-color: #0b0821;
   grid-gap: 20px;
 }
 
 .grid-element6 {
   display: grid;
   grid-column: span 1;
-  background-color: #0b0821;
   grid-gap: 20px;
 }
 
 .grid-element7 {
   display: grid;
   grid-column: span 1;
-  background-color: #0b0821;
   grid-gap: 20px;
 }
 
 .grid-element8 {
   display: grid;
   grid-column: span 1;
-  background-color: #0b0821;
   grid-gap: 20px;
 }
 
