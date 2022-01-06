@@ -24,7 +24,7 @@ h1 {
 a {
   font-size: 40px;
   text-decoration: none;
-  background-color: #0b0821;
+  background-color: rgb(36, 19, 63);
 }
 
 p {
@@ -42,7 +42,7 @@ p {
 .grid-element2 {
   display: grid;
   grid-column: span 3;
-  background-color: #0b0821;
+  background-color: #0a0a0a;
   grid-gap: 20px;
 }
 
