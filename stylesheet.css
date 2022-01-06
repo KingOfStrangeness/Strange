@@ -5,6 +5,11 @@ body {
 header {
   background-color: #89023E;
   width: 100%;
+  max-width: 200%;
+  min-width: auto;
+  max-width: auto;
+  width: auto;
+  
 }
 
 h1 {
