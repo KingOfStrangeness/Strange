@@ -3,11 +3,11 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  background-color: #0b0821
+  background-color: #1f0a30
 }
 
 header {
-  background-color: #35125c;
+  background-color: #2f1150;
   width: 100%;
   max-width: 200%;
   min-width: auto;
@@ -18,14 +18,14 @@ header {
 }
 
 h1 {
-  color: #4e0000;
+  color: #000000;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 a {
   font-size: 40px;
   text-decoration: none;
-  background-color: rgb(30, 15, 54);
+  background-color: rgb(50, 30, 82);
 }
 
 p {
@@ -36,7 +36,7 @@ p {
 .grid-container {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  background-color: #0b0729
+  background-color: #330808
   grid-gap: 20px;
 }
 
@@ -57,7 +57,7 @@ p {
 .grid-element4 {
   display: grid;
   grid-column: span 1;
-  background-color: #0b0821;
+  background-color: #000000;
   grid-gap: 20px;
 }
 
@@ -89,7 +89,7 @@ a:hover {
 .grid-element8 {
   display: grid;
   grid-column: span 1;
-  background-color: #0b0821;
+  background-color: #000000;
   grid-gap: 20px;
 }
 
