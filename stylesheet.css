@@ -5,7 +5,7 @@ html, body {
 }
 
 body {
-  background-image: url("./backround2.jpg");
+  background-image: url("./backround2.png");
   background-size: cover;
   display: flex;
   flex-direction: column;
