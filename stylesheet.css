@@ -2,6 +2,8 @@
   font-family: "nier";
   src: url(ITC\ Benguiat\ Book.ttf);
 }
+html, head 
+
 html, body {
   height: 100vh;
   margin: 0;
