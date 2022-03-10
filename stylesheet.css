@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @font-face {
   font-family: "nier";
   src: url(ITC\ Benguiat\ Book.ttf);
@@ -28,4 +29,36 @@ h1 {
 .button {
   color: #000000;
   text-decoration: none;
+=======
+@font-face {
+  font-family: "nier";
+  src: url(ITC\ Benguiat\ Book.ttf);
+}
+html, head 
+
+html, body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("./backround2.png");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex-grow: 2;
+}
+
+h1 {
+  font-size: 25px;
+  font-family: nier;
+}
+.button {
+
+  text-decoration: none;
+>>>>>>> d7ae91b78d4c1cdfeab43509ebe96fb0a7a03e35
 }
